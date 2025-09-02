@@ -15,7 +15,7 @@ Analyzed crowdfunding campaign data to uncover insights into funding trends, suc
 ---
 
 ##  Tools & Technologies
-- **Data Processing & Cleaning:** Excel or SQL (whichever you used)
+- **Data Processing & Cleaning:** Excel 
 - **Visualization:** Power BI
 - **Documentation:** Markdown, GitHub
 
