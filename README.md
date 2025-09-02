@@ -40,11 +40,7 @@ Analyzed crowdfunding campaign data to uncover insights into funding trends, suc
    - Peak periods for funding
    - Popular categories and regions
 
----
 
-##  Screenshots
-
-*(Insert dashboard screenshots here)*
 
 ---
 
@@ -54,5 +50,5 @@ Analyzed crowdfunding campaign data to uncover insights into funding trends, suc
 
 ---
 
-##  Repository Structure
+
 
